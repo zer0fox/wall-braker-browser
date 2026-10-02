@@ -1,0 +1,6 @@
+{
+  "name": "AegisProxy - Remote Web Sandbox Browser",
+  "description": "In-browser anonymous proxy browser that routes all web traffic through a dedicated remote server, complete with open-source GitHub Pages deployment guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
